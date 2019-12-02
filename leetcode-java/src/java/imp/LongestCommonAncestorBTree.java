@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.TreeNode;
+import java.imp.utils.TreeNode;
 
 public class LongestCommonAncestorBTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

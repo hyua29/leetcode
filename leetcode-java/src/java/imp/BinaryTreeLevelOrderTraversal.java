@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.TreeNode;
+import java.imp.utils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.ListNode;
+import java.imp.utils.ListNode;
 
 public class PartitionList {
     public ListNode partition(ListNode head, int x) {

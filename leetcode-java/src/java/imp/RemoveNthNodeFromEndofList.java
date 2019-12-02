@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.ListNode;
+import java.imp.utils.ListNode;
 
 public class RemoveNthNodeFromEndofList {
     public ListNode removeNthFromEnd(ListNode head, int n) {

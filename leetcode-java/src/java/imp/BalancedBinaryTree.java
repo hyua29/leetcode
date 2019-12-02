@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.TreeNode;
+import java.imp.utils.TreeNode;
 
 public class BalancedBinaryTree {
     public boolean isBalanced(TreeNode root) {

@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.TreeNode;
+import java.imp.utils.TreeNode;
 
 public class SortedArrayToBTree {
     public TreeNode sortedArrayToBST(int[] nums) {

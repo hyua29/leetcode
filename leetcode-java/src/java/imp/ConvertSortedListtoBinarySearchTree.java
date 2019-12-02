@@ -1,7 +1,7 @@
 package java.imp;
 
-import utils.ListNode;
-import utils.TreeNode;
+import java.imp.utils.ListNode;
+import java.imp.utils.TreeNode;
 
 public class ConvertSortedListtoBinarySearchTree {
     public TreeNode sortedListToBST(ListNode head) {

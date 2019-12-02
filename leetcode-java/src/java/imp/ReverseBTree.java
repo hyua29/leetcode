@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.TreeNode;
+import java.imp.utils.TreeNode;
 
 public class ReverseBTree {
     public TreeNode invertTree(TreeNode root) {

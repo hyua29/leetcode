@@ -1,6 +1,6 @@
 package java.imp;
 
-import utils.ListNode;
+import java.imp.utils.ListNode;
 
 public class MergekSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {

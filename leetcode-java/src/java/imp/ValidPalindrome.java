@@ -1,7 +1,5 @@
 package java.imp;
 
-import utils.ListNode;
-
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         s = s.replaceAll("[^\\w]","").toLowerCase();

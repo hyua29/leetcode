@@ -1,6 +1,7 @@
 package java.imp;
 
-import utils.ListNode;
+import java.imp.utils.ListNode;
+
 
 public class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
